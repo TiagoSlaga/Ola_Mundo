@@ -1,3 +1,3 @@
 # Olá Mundo!!!
  Primeiro repositorio do curso.
- Essa linha euadicionei diretamente no site.
+ Essa linha eu adicionei diretamente no site.
